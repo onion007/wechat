@@ -1,0 +1,12 @@
+{
+  "name": "wechat",
+  "main": "app.html",
+  "author": "onion007",
+  "window": {
+    "title": "wechat",
+    "resizable": false,
+    "toolbar": false,
+    "width": 1000,
+    "height": 700
+  }
+}
